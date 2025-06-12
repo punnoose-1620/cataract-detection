@@ -1,0 +1,16 @@
+2025-06-12 15:02:18,384 - INFO - ============================================================
+2025-06-12 15:02:18,384 - INFO - EYE/CATARACT DETECTION SYSTEM
+2025-06-12 15:02:18,384 - INFO - ============================================================
+2025-06-12 15:02:18,385 - INFO - Analyzing dataset...
+2025-06-12 15:02:18,385 - INFO - Analyzing dataset statistics...
+2025-06-12 15:02:23,072 - INFO - Dataset analysis saved to visualizations/dataset_analysis.png
+2025-06-12 15:02:23,072 - INFO - Starting training pipeline...
+2025-06-12 15:02:23,097 - INFO - Initialized yolov8n model
+2025-06-12 15:02:23,097 - INFO - Starting model training...
+2025-06-12 15:14:05,143 - INFO - Training completed successfully!
+2025-06-12 15:14:05,145 - INFO - Best model saved to models/best_model.pt
+2025-06-12 15:14:05,145 - INFO - Validating model...
+2025-06-12 15:14:20,454 - INFO - Validation completed!
+2025-06-12 15:14:24,522 - INFO - Training curves saved!
+2025-06-12 15:14:33,247 - INFO - Sample predictions visualization saved!
+2025-06-12 15:14:33,248 - INFO - Training pipeline completed!

@@ -1,0 +1,16 @@
+2025-06-12 15:01:20,762 - INFO - ============================================================
+2025-06-12 15:01:20,763 - INFO - EYE/CATARACT DETECTION SYSTEM
+2025-06-12 15:01:20,763 - INFO - ============================================================
+2025-06-12 15:01:20,763 - INFO - Analyzing dataset...
+2025-06-12 15:01:20,763 - INFO - Analyzing dataset statistics...
+2025-06-12 15:01:27,038 - INFO - Dataset analysis saved to visualizations/dataset_analysis.png
+2025-06-12 15:01:27,038 - INFO - Starting training pipeline...
+2025-06-12 15:01:28,437 - INFO - Initialized yolov8n model
+2025-06-12 15:01:28,437 - INFO - Starting model training...
+2025-06-12 15:01:28,521 - ERROR - Training failed: Invalid CUDA 'device=auto' requested. Use 'device=cpu' or pass valid CUDA device(s) if available, i.e. 'device=0' or 'device=0,1,2,3' for Multi-GPU.
+
+torch.cuda.is_available(): False
+torch.cuda.device_count(): 0
+os.environ['CUDA_VISIBLE_DEVICES']: None
+See https://pytorch.org/get-started/locally/ for up-to-date torch install instructions if no CUDA devices are seen by torch.
+

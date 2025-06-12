@@ -1,0 +1,7 @@
+names:
+- normal
+- cataract
+nc: 2
+path: Dataset
+train: train/images
+val: val/images

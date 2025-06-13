@@ -2,7 +2,7 @@
 
 A comprehensive deep learning system for detecting cataracts and eye conditions using state-of-the-art YOLO object detection models.
 
-![Display Image](./displayImage.webp)
+![Display Image](./displayImage.png)
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-v1.13+-red.svg)
